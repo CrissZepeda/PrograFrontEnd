@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap&family=Indie+Flower&family=Pacifico&display=swap");
+
+html, body{
+    margin:0px;  
+    height:100%;
+    width:100%
+}
+
+.header{
+    background-color: #B2BCE5;
+    float:none;
+}
+
+.contenido{
+    background-color: #DEDEDE;
+}
+
+.sider{
+    background-color:lightblue;
+    
+}
+.texto {
+    font-family: "Pacifico", cursive;
+    width:100%
+}
+
+.floatLeft{
+    float:left;
+    width:50%;
+    padding:20px;
+}
+
+.floatRight{
+    border:1px solid black;
+    float:right;
+    width:50%;
+    padding:20px;
+}
+
+.textoFlotante{
+font-family: "Pacifico", cursive;
+float:right;
+}
+
+
+.footer{
+    background-color:#F7CBCA;
+    height: 60px;
+    text-align:center;
+}
